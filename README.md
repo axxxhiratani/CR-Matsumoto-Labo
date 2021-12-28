@@ -4,6 +4,8 @@
 
 CR Matsumotolabo は、大学時代の研究室のメンバーをモチーフにしたスロットゲームです。研究室のパチンコとスロットが好きな友人を喜ばせたかったのと、Laravel と Vue.js の復習をするために作成したました。
 
+URL:http://powerful-island-73603.herokuapp.com/gitInfo
+
 ## 2.使用技術
 
 -   フロントエンド
