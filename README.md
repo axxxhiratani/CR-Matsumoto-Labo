@@ -31,8 +31,10 @@ CR Matsumotolabo は、大学時代の研究室のメンバーをモチーフに
 ## 4.遊び方
 
 -   「回す」ボタンを押すと 1/10 の確率で抽選が行われ、ルーレットが回ります。もし、抽選が当選していれば図柄が３つ全て揃います。
--   両端の図柄が揃うと「push」ボタンが現れ、ボタンを押すとリーチ演出が流れます。  
-    ![11](https://user-images.githubusercontent.com/91531795/147513793-344304d9-18e8-4991-b9a6-af0db10c749c.png)
+
+![11](https://user-images.githubusercontent.com/91531795/147513793-344304d9-18e8-4991-b9a6-af0db10c749c.png)
+
+-   両端の図柄が揃うと「push」ボタンが現れ、ボタンを押すとリーチ演出が流れます。
 
 ![13](https://user-images.githubusercontent.com/91531795/147514242-79a28e5c-d38f-4618-8f87-2c934e2f5914.png)
 
